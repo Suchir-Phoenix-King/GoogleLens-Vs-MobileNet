@@ -1,0 +1,144 @@
+#Remote {
+    background-color:lightgreen;
+    width: 600px;
+    border-radius: 10px;
+    border: 5px solid green;
+    box-shadow: 6px 6px 6px rgb(2, 58, 21);
+}
+
+#Scissors {
+    background-color:lightgreen;
+    width: 600px;
+    border-radius: 10px;
+    border: 5px solid green;
+    box-shadow: 6px 6px 6px rgb(2, 58, 21);
+}
+
+#Paint-Brush {
+    background-color:lightgreen;
+    width: 600px;
+    border-radius: 10px;
+    border: 5px solid green;
+    box-shadow: 6px 6px 6px rgb(2, 58, 21);
+}
+
+#Watch {
+    background-color:lightgreen;
+    width: 600px;
+    border-radius: 10px;
+    border: 5px solid green;
+    box-shadow: 6px 6px 6px rgb(2, 58, 21);
+}
+
+#Fevistick {
+    background-color:lightgreen;
+    width: 600px;
+    border-radius: 10px;
+    border: 5px solid green;
+    box-shadow: 6px 6px 6px rgb(2, 58, 21);
+}
+
+#Pen {
+    background-color:lightgreen;
+    width: 600px;
+    border-radius: 10px;
+    border: 5px solid green;
+    box-shadow: 6px 6px 6px rgb(2, 58, 21);
+}
+
+#Sharpner {
+    background-color:lightgreen;
+    width: 600px;
+    border-radius: 10px;
+    border: 5px solid green;
+    box-shadow: 6px 6px 6px rgb(2, 58, 21);
+}
+
+#Passport {
+    background-color:lightgreen;
+    width: 600px;
+    border-radius: 10px;
+    border: 5px solid green;
+    box-shadow: 6px 6px 6px rgb(2, 58, 21);
+}
+
+#Spoon {
+    background-color:lightgreen;
+    width: 600px;
+    border-radius: 10px;
+    border: 5px solid green;
+    box-shadow: 6px 6px 6px rgb(2, 58, 21);
+}
+
+.copy_right_footer {
+    position:fixed;
+    color: rgb(5, 75, 16);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(125, 236, 103);
+    line-height: 3;
+    text-align: center;
+}
+
+#remote_image {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#brush_image {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#glue_image {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#passport_image {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#pen_image {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#scissors_image {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#sharpner_image {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#watch_image {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#spoon_image {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
